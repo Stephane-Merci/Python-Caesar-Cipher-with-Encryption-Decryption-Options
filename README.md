@@ -1,12 +1,12 @@
 # Introduction:
 
-Welcome to this Python implementation of a Caesar cipher! This script provides a simple tool for encrypting and decrypting messages using the classic Caesar cipher technique. With user-friendly controls, you can customize the encryption/decryption process and analyze the results easily.
+## Welcome to this Python implementation of a Caesar cipher! This script provides a simple tool for encrypting and decrypting messages using the classic Caesar cipher technique. With user-friendly controls, you can customize the encryption/decryption process and analyze the results easily.
 
 # Getting Started:
 
-Requirements: This script requires Python 3.x to run. Ensure you have Python installed on your system.
-Code Structure: The main code is contained within the caesar.py file.
-Running the Script: Use your terminal to navigate to the script directory and execute python caesar.py.
+## Requirements: This script requires Python 3.x to run. Ensure you have Python installed on your system.
+## Code Structure: The main code is contained within the caesar.py file.
+## Running the Script: Use your terminal to navigate to the script directory and execute python caesar.py.
 
 # Usage:
 
