@@ -1,6 +1,6 @@
 # Introduction:
 
-### Welcome to this Python implementation of a Caesar cipher! This script provides a simple tool for encrypting and decrypting messages using the classic Caesar cipher technique. With user-friendly controls, you can customize the encryption/decryption process and analyze the results easily.
+#### Welcome to this Python implementation of a Caesar cipher! This script provides a simple tool for encrypting and decrypting messages using the classic Caesar cipher technique. With user-friendly controls, you can customize the encryption/decryption process and analyze the results easily.
 
 # Getting Started:
 
